@@ -4,10 +4,10 @@ Academic Final Project for the cours Data Science: From Data to Knowledge
 
 ## Libraries to install.
 
-Tweepy            pip install tweepy
-Snscrape          pip install snscrape
-Wordcloud         pip install wordcloud
-chess-pgn         pip install chess
+- Tweepy            pip install tweepy
+- Snscrape          pip install snscrape
+- Wordcloud         pip install wordcloud
+- chess-pgn         pip install chess
 
 
 ## Task 1 
